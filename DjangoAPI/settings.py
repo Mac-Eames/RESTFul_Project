@@ -88,10 +88,10 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'restapidb',
-        'USER': 'postgres',
-        'PASSWORD': 'Habeeb123',
-        'HOST': 'localhost',
-        'PORT': '5432'
+        'USER': '',
+        'PASSWORD': '',
+        'HOST': '',
+        'PORT': ''
     }
 }
 
